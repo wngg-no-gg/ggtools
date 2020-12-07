@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6365b7a3-5936-4484-a6c8-28365b01e9c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/feature/common.go" beforeDir="false" afterPath="$PROJECT_DIR$/feature/common.go" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/gg.gg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/document/gg.gg" beforeDir="false" />
@@ -11,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/router/gg.gg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/gg.gg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/gg.gg" beforeDir="false" />
+>>>>>>> 8d17e5eee4d5211046b7778f753ab2811c46921e
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,5 +90,9 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
+    <option name="oldMeFiltersMigrated" value="true" />
+=======
+>>>>>>> 8d17e5eee4d5211046b7778f753ab2811c46921e
   </component>
 </project>
